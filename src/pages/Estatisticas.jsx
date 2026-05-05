@@ -33,6 +33,188 @@ export default function Estatisticas({ onBack }) {
         { nome: "Libertadores",jog:13, g:3, a:5, ca:1, cv:0, med:7.54 },
       ]
     },
+    { 
+      pos: "LE", nome: "Kaiki", idade: 23, ovr: 75, evolucao: "+2",
+      altura: "172 cm", peso: "72 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Kaiki.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.80 },
+        { nome: "Paulistão",jog:12, g:0, a:2, ca:0, cv:0, med:6.49 },
+        { nome: "Copa do Brasil",jog:8, g:1, a:0, ca:0, cv:1, med:6.16 },
+        { nome: "Brasileirão",jog:37, g:1, a:2, ca:2, cv:0, med:5.88 },
+        { nome: "Libertadores",jog:13, g:1, a:1, ca:0, cv:0, med:6.28 },
+      ]
+    },
+    { 
+      pos: "PD", nome: "Guedes", idade: 30, ovr: 80, evolucao: "+3",
+      altura: "182 cm", peso: "76 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Guedes.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:6.20 },
+        { nome: "Paulistão",jog:14, g:5, a:8, ca:0, cv:1, med:7.54 },
+        { nome: "Copa do Brasil",jog:6, g:3, a:5, ca:0, cv:0, med:7.50 },
+        { nome: "Brasileirão",jog:35, g:12, a:15, ca:1, cv:0, med:7.13 },
+        { nome: "Libertadores",jog:13, g:8, a:4, ca:1, cv:0, med:7.32 },
+      ]
+    },
+    { 
+      pos: "LE", nome: "Bidu", idade: 27, ovr: 75, evolucao: "+1",
+      altura: "172 cm", peso: "72 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Bidu.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:6.60 },
+        { nome: "Paulistão",jog:12, g:0, a:0, ca:0, cv:0, med:6.28 },
+        { nome: "Copa do Brasil",jog:4, g:0, a:1, ca:0, cv:0, med:6.45 },
+        { nome: "Brasileirão",jog:37, g:2, a:4, ca:3, cv:0, med:6.51 },
+        { nome: "Libertadores",jog:13, g:0, a:3, ca:1, cv:0, med:6.50 },
+      ]
+    },
+    { 
+      pos: "LD", nome: "Matheuzinho", idade: 26, ovr: 77, evolucao: "+3",
+      altura: "171 cm", peso: "68 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Matheuzinho.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:1, ca:0, cv:0, med:7.00 },
+        { nome: "Paulistão",jog:11, g:1, a:0, ca:2, cv:0, med:6.60 },
+        { nome: "Copa do Brasil",jog:5, g:0, a:0, ca:0, cv:0, med:5.92 },
+        { nome: "Brasileirão",jog:37, g:3, a:7, ca:3, cv:0, med:6.73 },
+        { nome: "Libertadores",jog:12, g:0, a:1, ca:1, cv:1, med:6.14 },
+      ]
+    },
+    { 
+      pos: "MC", nome: "Bidon", idade: 21, ovr: 77, evolucao: "+3",
+      altura: "174 cm", peso: "64 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Bidon.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:7.10 },
+        { nome: "Paulistão",jog:13, g:4, a:4, ca:0, cv:0, med:7.58 },
+        { nome: "Copa do Brasil",jog:3, g:0, a:0, ca:0, cv:0, med:6.77 },
+        { nome: "Brasileirão",jog:37, g:1, a:4, ca:4, cv:0, med:7.15 },
+        { nome: "Libertadores",jog:11, g:0, a:0, ca:0, cv:1, med:6.20 },
+      ]
+    },
+    { 
+      pos: "MC", nome: "Bitello", idade: 26, ovr: 78, evolucao: "+3",
+      altura: "178 cm", peso: "70 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Bitello.jpg", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:12, g:0, a:2, ca:1, cv:0, med:7.15 },
+        { nome: "Copa do Brasil",jog:7, g:0, a:1, ca:0, cv:0, med:6.79 },
+        { nome: "Brasileirão",jog:21, g:1, a:1, ca:0, cv:1, med:6.48 },
+        { nome: "Libertadores",jog:10, g:0, a:2, ca:1, cv:0, med:6.76 },
+      ]
+    },
+    { 
+      pos: "ZAG", nome: "Koulibaly", idade: 35, ovr: 80, evolucao: "-2",
+      altura: "186 cm", peso: "89 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Senegal.png", 
+      foto: "/players/Koulibaly.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:9, g:0, a:0, ca:0, cv:0, med:7.19 },
+        { nome: "Copa do Brasil",jog:1, g:0, a:0, ca:0, cv:0, med:6.80 },
+        { nome: "Brasileirão",jog:26, g:1, a:2, ca:0, cv:2, med:7.02 },
+        { nome: "Libertadores",jog:6, g:0, a:0, ca:1, cv:0, med:7.27 },
+      ]
+    },
+    { 
+      pos: "LD", nome: "Milans", idade: 24, ovr: 73, evolucao: "+3",
+      altura: "171 cm", peso: "69 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Uruguai.png", 
+      foto: "/players/Milans.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:6, g:2, a:0, ca:0, cv:0, med:6.67 },
+        { nome: "Brasileirão",jog:29, g:2, a:2, ca:1, cv:0, med:6.15 },
+        { nome: "Libertadores",jog:6, g:0, a:2, ca:0, cv:0, med:6.53 },
+      ]
+    },
+    { 
+      pos: "ZAG", nome: "Tchoca", idade: 22, ovr: 75, evolucao: "+3",
+      altura: "192 cm", peso: "82 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Tchoca.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:6, g:1, a:0, ca:0, cv:0, med:7.62 },
+        { nome: "Copa do Brasil",jog:3, g:0, a:0, ca:1, cv:0, med:6.77 },
+        { nome: "Brasileirão",jog:24, g:0, a:0, ca:2, cv:0, med:6.86 },
+        { nome: "Libertadores",jog:6, g:0, a:0, ca:0, cv:0, med:6.63 },
+      ]
+    },
+      { 
+      pos: "GL", nome: "Neuer", idade: 40, ovr: 82, evolucao: "-1",
+      altura: "193 cm", peso: "93 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Alemanha.png", 
+      foto: "/players/Neuer.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:5, g:0, a:0, ca:0, cv:0, med:6.36 },
+        { nome: "Brasileirão",jog:26, g:0, a:0, ca:0, cv:0, med:6.53 },
+        { nome: "Libertadores",jog:7, g:0, a:0, ca:0, cv:0, med:6.07 },
+      ]
+    },
+      { 
+      pos: "MEI", nome: "Lingard", idade: 34, ovr: 71, evolucao: "-3",
+      altura: "175 cm", peso: "65 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Inglaterra.png", 
+      foto: "/players/Lingard.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:1, ca:0, cv:0, med:8.30 },
+        { nome: "Paulistão",jog:13, g:0, a:1, ca:0, cv:0, med:6.65 },
+        { nome: "Copa do Brasil",jog:3, g:1, a:0, ca:0, cv:0, med:8.00 },
+        { nome: "Brasileirão",jog:12, g:0, a:3, ca:1, cv:0, med:6.93 },
+        { nome: "Libertadores",jog:6, g:0, a:1, ca:0, cv:0, med:6.68 },
+      ]
+    },
+      { 
+      pos: "MC", nome: "Hatate", idade: 29, ovr: 78, evolucao: "+2",
+      altura: "172 cm", peso: "70 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Japao.png", 
+      foto: "/players/Hatate.jpg", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:3, g:0, a:0, ca:0, cv:0, med:7.03 },
+        { nome: "Brasileirão",jog:25, g:3, a:1, ca:1, cv:1, med:7.11 },
+        { nome: "Libertadores",jog:6, g:1, a:0, ca:0, cv:1, med:6.83 },
+      ]
+    },
+      { 
+      pos: "PD", nome: "Garnacho", idade: 22, ovr: 82, evolucao: "+4",
+      altura: "180 cm", peso: "72 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Argentina.png", 
+      foto: "/players/Garnacho.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:2, g:1, a:0, ca:0, cv:0, med:7.15 },
+        { nome: "Brasileirão",jog:24, g:18, a:21, ca:1, cv:0, med:8.63 },
+        { nome: "Libertadores",jog:7, g:7, a:3, ca:0, cv:0, med:8.07 },
+      ]
+    },
   ];
 
   if (jogadorSelecionado) {
