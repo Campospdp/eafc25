@@ -71,7 +71,12 @@ export default function SquadScreen({ onBack }) {
 
           {/* ATAQUE (3 Jogadores) */}
           <div className="flex justify-around z-10 -mt-4">
-            <PlayerCard name="Neymar" rating="81" img="/ney.png" />
+            <PlayerCard 
+                name="Rashford" 
+                rating="82" 
+                img="/players/Rashford.png" 
+                customScale="scale-55" 
+            />
             
             <PlayerCard 
                 name="Yuri Alberto" 
@@ -80,32 +85,78 @@ export default function SquadScreen({ onBack }) {
                 customScale="scale-55" 
             />
             
-            <PlayerCard name="Depay" rating="81" img="/depay.png" />
+            <PlayerCard 
+                name="Garnacho" 
+                rating="83" 
+                img="/players/Garnacho.png" 
+                customScale="scale-55" 
+            />
+            
           </div>
 
           {/* MEIO DE CAMPO */}
           <div className="flex justify-center z-10 -my-4">
-            <PlayerCard name="Garro" rating="80" img="/garro.png" />
+            <PlayerCard 
+                name="Garro" 
+                rating="80" 
+                img="/players/Garro.png" 
+                customScale="scale-55" 
+            />
           </div>
 
           <div className="flex justify-around px-12 z-10">
-            <PlayerCard name="Fred" rating="79" img="/fred.png" />
-            <PlayerCard name="Breno Bidon" rating="76" img="/bidon.png" />
+            <PlayerCard 
+                name="Bidon" 
+                rating="77" 
+                img="/players/Bidon.webp" 
+                customScale="scale-55" 
+            />
+            <PlayerCard 
+                name="Hatate" 
+                rating="78" 
+                img="/players/Hatate.jpg" 
+                customScale="scale-55" 
+            />
           </div>
 
           {/* DEFESA */}
           <div className="flex justify-between items-end z-10 px-2">
-            <PlayerCard name="Abner V." rating="77" img="/abner.png" />
+             <PlayerCard 
+                name="Bidu" 
+                rating="75" 
+                img="/players/Bidu.webp" 
+                customScale="scale-55" 
+            />
             <div className="flex gap-4">
-              <PlayerCard name="Veríssimo" rating="80" img="/verissimo.png" />
-              <PlayerCard name="Casemiro" rating="78" img="/casemiro.png" />
+              <PlayerCard 
+                name="Koulibaly" 
+                rating="80" 
+                img="/players/Koulibaly.png" 
+                customScale="scale-55" 
+            />
+              <PlayerCard 
+                name="Tchoca" 
+                rating="75" 
+                img="/players/Tchoca.webp" 
+                customScale="scale-55" 
+            />
             </div>
-            <PlayerCard name="Tomiyasu" rating="80" img="/tomiyasu.png" />
+              <PlayerCard 
+                name="Matheuzinho" 
+                rating="77" 
+                img="/players/Matheuzinho.webp" 
+                customScale="scale-55" 
+            />
           </div>
 
           {/* GOLEIRO */}
           <div className="flex justify-center z-10 -mb-4">
-            <PlayerCard name="Neuer" rating="83" img="/neuer.png" />
+            <PlayerCard 
+                name="Neuer" 
+                rating="82" 
+                img="/players/Neuer.webp" 
+                customScale="scale-55" 
+            />
           </div>
         </div>
       </div>
