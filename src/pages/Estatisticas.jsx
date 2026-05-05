@@ -12,25 +12,11 @@ export default function Estatisticas({ onBack }) {
       foto: "/players/Yuri.png", 
       valor: "€ 157,5M",
       competicoes: [
-        { nome: "Supercopa do Br",jog: 1,g: 1,a: 0,ca: 0,cv: 0,med: 8.10 },
-        { nome: "Paulistão",jog: 14,g: 15,a: 2,ca: 0,cv: 0,med: 8.11 },
-        { nome: "Copa do Brasil",jog: 0,g: 0,a: 0,ca: 0,cv: 0,med: 0 },
-        { nome: "Brasileirão",jog: 30,g: 50,a: 10,ca: 0,cv: 0,med: 8.67 },
-        { nome: "Libertadores",jog: 11,g: 23,a: 1,ca: 0,cv: 0,med: 8.90 },
-      ]
-    },
-    { 
-      pos: "PD", nome: "Memphis Depay", idade: 32, ovr: 81, evolucao: "0",
-      altura: "178 cm", peso: "78 kg", perna: "Direita",
-      bandeira: "/Nacionalidade/Holanda.png", 
-      foto: "/players/Memphis.png", 
-      valor: "€ 87M",
-      competicoes: [
-        { nome: "Supercopa do Br",jog: 1,g: 0,a: 0,ca: 0,cv: 0,med: 6.00 },
-        { nome: "Paulistão",jog: 13,g: 6,a: 12,ca: 1,cv: 1,med: 8.12 },
-        { nome: "Copa do Brasil",jog: 0,g: 0,a: 0,ca: 0,cv: 0,med: 0 },
-        { nome: "Brasileirão",jog: 24,g: 8,a: 5,ca: 1,cv: 1,med: 7.20 },
-        { nome: "Libertadores",jog: 9,g: 4,a: 2,ca: 0,cv: 0,med: 7.61 },
+        { nome: "Supercopa do Br",jog:1, g:2, a:0, ca:0, cv:0, med:9.50 },
+        { nome: "Paulistão",jog:16, g:21, a:8, ca:1, cv:0, med:8.91 },
+        { nome: "Copa do Brasil",jog:5, g:6, a:4, ca:1, cv:0, med:8.62 },
+        { nome: "Brasileirão",jog:37, g:63, a:30, ca:2, cv:1, med:9.23 },
+        { nome: "Libertadores",jog:13, g:14, a:10, ca:0, cv:0, med:8.61 },
       ]
     },
     { 
@@ -40,11 +26,11 @@ export default function Estatisticas({ onBack }) {
       foto: "/players/Garro.png", 
       valor: "€ 82M",
       competicoes: [
-        { nome: "Supercopa do Br",jog: 1,g: 0,a: 0,ca: 0,cv: 0,med: 7.40 },
-        { nome: "Paulistão",jog: 14,g: 5,a: 7,ca: 1,cv: 0,med: 7.87 },
-        { nome: "Copa do Brasil",jog: 1,g: 0,a: 0,ca: 0,cv: 0,med: 7.10 },
-        { nome: "Brasileirão",jog: 29,g: 11,a: 30,ca: 4,cv: 1,med: 8.23 },
-        { nome: "Libertadores",jog: 11,g: 3,a: 9,ca: 0,cv: 0,med: 8.09 },
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.80 },
+        { nome: "Paulistão",jog:16, g:1, a:8, ca:0, cv:0, med:8.18 },
+        { nome: "Copa do Brasil",jog:4, g:1, a:0, ca:0, cv:0, med:7.35 },
+        { nome: "Brasileirão",jog:37, g:5, a:20, ca:1, cv:0, med:8.07 },
+        { nome: "Libertadores",jog:13, g:3, a:5, ca:1, cv:0, med:7.54 },
       ]
     },
   ];
