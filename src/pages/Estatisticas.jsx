@@ -10,7 +10,7 @@ export default function Estatisticas({ onBack }) {
       altura: "183 cm", peso: "77 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Yuri.png", 
-      valor: "€ 157,5M",
+      valor: "€ 41M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:2, a:0, ca:0, cv:0, med:9.50 },
         { nome: "Paulistão",jog:16, g:21, a:8, ca:1, cv:0, med:8.91 },
@@ -24,7 +24,7 @@ export default function Estatisticas({ onBack }) {
       altura: "174 cm", peso: "70 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Argentina.png", 
       foto: "/players/Garro.png", 
-      valor: "€ 82M",
+      valor: "€ 21M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.80 },
         { nome: "Paulistão",jog:16, g:1, a:8, ca:0, cv:0, med:8.18 },
@@ -38,7 +38,7 @@ export default function Estatisticas({ onBack }) {
       altura: "172 cm", peso: "72 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Kaiki.webp", 
-      valor: "€ 82M",
+      valor: "€ 6,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.80 },
         { nome: "Paulistão",jog:12, g:0, a:2, ca:0, cv:0, med:6.49 },
@@ -52,7 +52,7 @@ export default function Estatisticas({ onBack }) {
       altura: "182 cm", peso: "76 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Guedes.png", 
-      valor: "€ 82M",
+      valor: "€ 20,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:6.20 },
         { nome: "Paulistão",jog:14, g:5, a:8, ca:0, cv:1, med:7.54 },
@@ -66,7 +66,7 @@ export default function Estatisticas({ onBack }) {
       altura: "172 cm", peso: "72 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Bidu.webp", 
-      valor: "€ 82M",
+      valor: "€ 5,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:6.60 },
         { nome: "Paulistão",jog:12, g:0, a:0, ca:0, cv:0, med:6.28 },
@@ -80,7 +80,7 @@ export default function Estatisticas({ onBack }) {
       altura: "171 cm", peso: "68 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Matheuzinho.webp", 
-      valor: "€ 82M",
+      valor: "€ 11,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:1, ca:0, cv:0, med:7.00 },
         { nome: "Paulistão",jog:11, g:1, a:0, ca:2, cv:0, med:6.60 },
@@ -94,7 +94,7 @@ export default function Estatisticas({ onBack }) {
       altura: "174 cm", peso: "64 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Bidon.webp", 
-      valor: "€ 82M",
+      valor: "€ 15,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:7.10 },
         { nome: "Paulistão",jog:13, g:4, a:4, ca:0, cv:0, med:7.58 },
@@ -108,7 +108,7 @@ export default function Estatisticas({ onBack }) {
       altura: "178 cm", peso: "70 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Bitello.jpg", 
-      valor: "€ 82M",
+      valor: "€ 15M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:12, g:0, a:2, ca:1, cv:0, med:7.15 },
@@ -122,7 +122,7 @@ export default function Estatisticas({ onBack }) {
       altura: "186 cm", peso: "89 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Senegal.png", 
       foto: "/players/Koulibaly.png", 
-      valor: "€ 82M",
+      valor: "€ 8,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:9, g:0, a:0, ca:0, cv:0, med:7.19 },
@@ -136,7 +136,7 @@ export default function Estatisticas({ onBack }) {
       altura: "171 cm", peso: "69 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Uruguai.png", 
       foto: "/players/Milans.webp", 
-      valor: "€ 82M",
+      valor: "€ 3,8M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -150,7 +150,7 @@ export default function Estatisticas({ onBack }) {
       altura: "192 cm", peso: "82 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Tchoca.webp", 
-      valor: "€ 82M",
+      valor: "€ 7,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:6, g:1, a:0, ca:0, cv:0, med:7.62 },
@@ -164,7 +164,7 @@ export default function Estatisticas({ onBack }) {
       altura: "193 cm", peso: "93 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Alemanha.png", 
       foto: "/players/Neuer.webp", 
-      valor: "€ 82M",
+      valor: "€ 5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -178,7 +178,7 @@ export default function Estatisticas({ onBack }) {
       altura: "175 cm", peso: "65 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Inglaterra.png", 
       foto: "/players/Lingard.webp", 
-      valor: "€ 82M",
+      valor: "€ 1,3M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:1, ca:0, cv:0, med:8.30 },
         { nome: "Paulistão",jog:13, g:0, a:1, ca:0, cv:0, med:6.65 },
@@ -192,7 +192,7 @@ export default function Estatisticas({ onBack }) {
       altura: "172 cm", peso: "70 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Japao.png", 
       foto: "/players/Hatate.jpg", 
-      valor: "€ 82M",
+      valor: "€ 13,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -206,7 +206,7 @@ export default function Estatisticas({ onBack }) {
       altura: "180 cm", peso: "72 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Argentina.png", 
       foto: "/players/Garnacho.png", 
-      valor: "€ 82M",
+      valor: "€ 38,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -220,7 +220,7 @@ export default function Estatisticas({ onBack }) {
       altura: "172 cm", peso: "70 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Allan.webp", 
-      valor: "€ 82M",
+      valor: "€ 4,1M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.30 },
         { nome: "Paulistão",jog:10, g:0, a:1, ca:0, cv:0, med:6.37 },
@@ -234,7 +234,7 @@ export default function Estatisticas({ onBack }) {
       altura: "186 cm", peso: "70 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Inglaterra.png", 
       foto: "/players/Rashford.png", 
-      valor: "€ 82M",
+      valor: "€ 30M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -248,7 +248,7 @@ export default function Estatisticas({ onBack }) {
       altura: "178 cm", peso: "72 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Colombia.png", 
       foto: "/players/Arias.png", 
-      valor: "€ 82M",
+      valor: "€ 1,4M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.40 },
         { nome: "Paulistão",jog:7, g:1, a:2, ca:0, cv:0, med:7.03 },
@@ -262,7 +262,7 @@ export default function Estatisticas({ onBack }) {
       altura: "185 cm", peso: "75 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Burkina.png", 
       foto: "/players/Nagalo.png", 
-      valor: "€ 82M",
+      valor: "€ 6,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -276,7 +276,7 @@ export default function Estatisticas({ onBack }) {
       altura: "179 cm", peso: "72 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
-      valor: "€ 82M",
+      valor: "€ 2,1M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -290,7 +290,7 @@ export default function Estatisticas({ onBack }) {
       altura: "179 cm", peso: "66 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
-      valor: "€ 82M",
+      valor: "€ 2,7M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:1, g:0, a:0, ca:0, cv:0, med:6.70 },
@@ -304,7 +304,7 @@ export default function Estatisticas({ onBack }) {
       altura: "188 cm", peso: "78 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Croacia.png", 
       foto: "/players/Prpić.png", 
-      valor: "€ 82M",
+      valor: "€ 4,4M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -318,7 +318,7 @@ export default function Estatisticas({ onBack }) {
       altura: "185 cm", peso: "72 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Paulista.webp", 
-      valor: "€ 82M",
+      valor: "€ 1,4M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:7.90 },
         { nome: "Paulistão",jog:12, g:0, a:0, ca:1, cv:0, med:6.53 },
@@ -332,7 +332,7 @@ export default function Estatisticas({ onBack }) {
       altura: "181 cm", peso: "68 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Matheus Pereira.webp", 
-      valor: "€ 82M",
+      valor: "€ 5,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:7, g:3, a:0, ca:0, cv:0, med:6.97 },
@@ -346,7 +346,7 @@ export default function Estatisticas({ onBack }) {
       altura: "177 cm", peso: "71 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Romenia.png", 
       foto: "/players/Olaru.png", 
-      valor: "€ 82M",
+      valor: "€ 4,2M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -360,7 +360,7 @@ export default function Estatisticas({ onBack }) {
       altura: "183 cm", peso: "76 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
-      valor: "€ 82M",
+      valor: "€ 1,7M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:1, g:0, a:0, ca:1, cv:0, med:6.20 },
@@ -374,7 +374,7 @@ export default function Estatisticas({ onBack }) {
       altura: "179 cm", peso: "70 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Andre.webp", 
-      valor: "€ 82M",
+      valor: "€ 2,2M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:6.20 },
         { nome: "Paulistão",jog:4, g:0, a:0, ca:0, cv:0, med:6.53 },
@@ -388,7 +388,7 @@ export default function Estatisticas({ onBack }) {
       altura: "175 cm", peso: "65 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Marrocos.png", 
       foto: "/players/Labyad.jpg", 
-      valor: "€ 82M",
+      valor: "€ 1,1M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:8, g:2, a:2, ca:0, cv:0, med:6.43 },
@@ -402,7 +402,7 @@ export default function Estatisticas({ onBack }) {
       altura: "199 cm", peso: "82 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
-      valor: "€ 82M",
+      valor: "€ 2M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:3, g:0, a:0, ca:0, cv:0, med:5.73 },
@@ -416,7 +416,7 @@ export default function Estatisticas({ onBack }) {
       altura: "192 cm", peso: "80 kg", perna: "Direita",
       bandeira: "/Nacionalidade/França.png", 
       foto: "/players/Meite.png", 
-      valor: "€ 82M",
+      valor: "€ 6,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:2, g:2, a:0, ca:0, cv:0, med:8.25 },
@@ -430,7 +430,7 @@ export default function Estatisticas({ onBack }) {
       altura: "175 cm", peso: "68 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
-      valor: "€ 82M",
+      valor: "€ 1,3M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -444,7 +444,7 @@ export default function Estatisticas({ onBack }) {
       altura: "172 cm", peso: "67 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
-      valor: "€ 82M",
+      valor: "€ 1,2M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -458,7 +458,7 @@ export default function Estatisticas({ onBack }) {
       altura: "173 cm", peso: "66 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
-      valor: "€ 82M",
+      valor: "€ 950MIL",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -472,11 +472,54 @@ export default function Estatisticas({ onBack }) {
       altura: "185 cm", peso: "73 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Argentina.png", 
       foto: "/players/Angileri.webp", 
-      valor: "€ 82M",
+      valor: "€ 2,1M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Copa do Brasil",jog:2, g:0, a:0, ca:0, cv:0, med:5.85 },
+        { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Libertadores",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+      ]
+    },
+    { 
+      pos: "LE", nome: "Andrade", idade: 17, ovr: 63, evolucao: "+1",
+      altura: "187 cm", peso: "78 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png",
+      terrao: "/images/Filho_do_Terrao.png", 
+      valor: "€ 1,5M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Libertadores",jog:1, g:0, a:0, ca:0, cv:0, med:6.40 },
+      ]
+    },
+    { 
+      pos: "ATA", nome: "Fernandes", idade: 17, ovr: 61, evolucao: "+2",
+      altura: "187 cm", peso: "78 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 750MIL",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Libertadores",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+      ]
+    },
+    { 
+      pos: "MC", nome: "Santos", idade: 18, ovr: 67, evolucao: "+2",
+      altura: "184 cm", peso: "76 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 2,1M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
         { nome: "Libertadores",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
       ]
@@ -517,6 +560,7 @@ export default function Estatisticas({ onBack }) {
           <div className="flex items-center gap-3">
              <img src={j.bandeira} className="w-6 h-6 sm:w-8 sm:h-8 rounded-full border border-white/20" alt="" />
              <h1 className="text-2xl sm:text-4xl font-black tracking-tighter truncate">{j.nome}</h1>
+             <img src={j.terrao} className="h-10 sm:h-16" alt="" />
           </div>
 
           <div className="grid grid-cols-3 gap-2 sm:gap-8 mt-6 border-t border-white/10 pt-4 text-[9px] sm:text-[11px] font-bold text-zinc-400">
@@ -611,7 +655,7 @@ export default function Estatisticas({ onBack }) {
                 <img src={jogador.bandeira} alt="" className="w-full h-full object-cover" onError={(e) => e.target.style.display = 'none'} />
               </div>
               <span className="font-black text-zinc-900 uppercase italic tracking-tighter text-[11px] sm:text-sm truncate">{jogador.nome}</span>
-            </div>
+              </div>
 
             <div className="flex gap-2 sm:gap-6 font-black text-zinc-900 italic flex-shrink-0">
               {abaAtiva === "GERAL" && (
