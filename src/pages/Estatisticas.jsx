@@ -215,6 +215,272 @@ export default function Estatisticas({ onBack }) {
         { nome: "Libertadores",jog:7, g:7, a:3, ca:0, cv:0, med:8.07 },
       ]
     },
+    { 
+      pos: "MC", nome: "Allan", idade: 29, ovr: 74, evolucao: "+1",
+      altura: "172 cm", peso: "70 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Allan.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.30 },
+        { nome: "Paulistão",jog:10, g:0, a:1, ca:0, cv:0, med:6.37 },
+        { nome: "Copa do Brasil",jog:3, g:0, a:1, ca:0, cv:0, med:6.67 },
+        { nome: "Brasileirão",jog:12, g:0, a:0, ca:1, cv:0, med:6.61 },
+        { nome: "Libertadores",jog:2, g:0, a:0, ca:0, cv:0, med:6.05 },
+      ]
+    },
+    { 
+      pos: "PE", nome: "Rashford", idade: 29, ovr: 82, evolucao: "+2",
+      altura: "186 cm", peso: "70 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Inglaterra.png", 
+      foto: "/players/Rashford.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:2, g:1, a:3, ca:0, cv:0, med:7.85 },
+        { nome: "Brasileirão",jog:21, g:18, a:10, ca:3, cv:0, med:8.01 },
+        { nome: "Libertadores",jog:4, g:2, a:1, ca:0, cv:0, med:7.13 },
+      ]
+    },
+    { 
+      pos: "LD", nome: "Arias", idade: 34, ovr: 71, evolucao: "-4",
+      altura: "178 cm", peso: "72 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Colombia.png", 
+      foto: "/players/Arias.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:5.40 },
+        { nome: "Paulistão",jog:7, g:1, a:2, ca:0, cv:0, med:7.03 },
+        { nome: "Copa do Brasil",jog:5, g:0, a:1, ca:1, cv:0, med:6.36 },
+        { nome: "Brasileirão",jog:8, g:0, a:0, ca:0, cv:0, med:5.57 },
+        { nome: "Libertadores",jog:4, g:0, a:0, ca:0, cv:0, med:6.05 },
+      ]
+    },
+    { 
+      pos: "ZAG", nome: "Nagalo", idade: 24, ovr: 73, evolucao: "+1",
+      altura: "185 cm", peso: "75 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Burkina.png", 
+      foto: "/players/Nagalo.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:5, g:0, a:0, ca:1, cv:0, med:6.20 },
+        { nome: "Brasileirão",jog:10, g:0, a:0, ca:1, cv:0, med:6.88 },
+        { nome: "Libertadores",jog:6, g:0, a:0, ca:0, cv:0, med:7.27 },
+      ]
+    },
+    { 
+      pos: "MEI", nome: "Correa", idade: 17, ovr: 67, evolucao: "+1",
+      altura: "179 cm", peso: "72 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:5, g:1, a:3, ca:0, cv:0, med:7.50 },
+        { nome: "Brasileirão",jog:12, g:0, a:2, ca:0, cv:0, med:6.24 },
+        { nome: "Libertadores",jog:2, g:0, a:1, ca:0, cv:0, med:7.10 },
+      ]
+    },
+    { 
+      pos: "PE", nome: "Moraes", idade: 17, ovr: 66, evolucao: "+3",
+      altura: "179 cm", peso: "66 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:1, g:0, a:0, ca:0, cv:0, med:6.70 },
+        { nome: "Copa do Brasil",jog:5, g:3, a:1, ca:0, cv:0, med:7.56 },
+        { nome: "Brasileirão",jog:6, g:3, a:3, ca:0, cv:0, med:7.27 },
+        { nome: "Libertadores",jog:5, g:1, a:3, ca:1, cv:0, med:6.92 },
+      ]
+    },
+    { 
+      pos: "ZAG", nome: "Prpić", idade: 22, ovr: 73, evolucao: "+1",
+      altura: "188 cm", peso: "78 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Croacia.png", 
+      foto: "/players/Prpić.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:2, g:0, a:0, ca:0, cv:0, med:6.85 },
+        { nome: "Brasileirão",jog:13, g:0, a:0, ca:1, cv:1, med:6.70 },
+        { nome: "Libertadores",jog:2, g:0, a:0, ca:0, cv:0, med:6.00 },
+      ]
+    },
+    { 
+      pos: "ZAG", nome: "Paulista", idade: 36, ovr: 73, evolucao: "-4",
+      altura: "185 cm", peso: "72 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Paulista.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:7.90 },
+        { nome: "Paulistão",jog:12, g:0, a:0, ca:1, cv:0, med:6.53 },
+        { nome: "Copa do Brasil",jog:1, g:0, a:0, ca:0, cv:0, med:6.00 },
+        { nome: "Brasileirão",jog:1, g:0, a:0, ca:0, cv:0, med:6.80 },
+        { nome: "Libertadores",jog:2, g:0, a:0, ca:0, cv:0, med:6.95 },
+      ]
+    },
+    { 
+      pos: "MC", nome: "Matheus Pereira", idade: 28, ovr: 75, evolucao: "+3",
+      altura: "181 cm", peso: "68 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Matheus Pereira.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:7, g:3, a:0, ca:0, cv:0, med:6.97 },
+        { nome: "Copa do Brasil",jog:1, g:0, a:0, ca:0, cv:0, med:6.30 },
+        { nome: "Brasileirão",jog:5, g:0, a:0, ca:0, cv:1, med:5.78 },
+        { nome: "Libertadores",jog:5, g:0, a:0, ca:0, cv:0, med:6.70 },
+      ]
+    },
+    { 
+      pos: "MEI", nome: "Olaru", idade: 28, ovr: 74, evolucao: "+1",
+      altura: "177 cm", peso: "71 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Romenia.png", 
+      foto: "/players/Olaru.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:2, g:1, a:1, ca:0, cv:0, med:8.15 },
+        { nome: "Brasileirão",jog:11, g:1, a:0, ca:0, cv:0, med:6.73 },
+        { nome: "Libertadores",jog:2, g:0, a:0, ca:0, cv:0, med:6.15 },
+      ]
+    },
+    { 
+      pos: "ZAG", nome: "Reis", idade: 17, ovr: 69, evolucao: "+1",
+      altura: "183 cm", peso: "76 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:1, g:0, a:0, ca:1, cv:0, med:6.20 },
+        { nome: "Copa do Brasil",jog:5, g:0, a:0, ca:1, cv:0, med:6.48 },
+        { nome: "Brasileirão",jog:3, g:0, a:0, ca:0, cv:0, med:6.40 },
+        { nome: "Libertadores",jog:3, g:0, a:0, ca:1, cv:0, med:6.20 },
+      ]
+    },
+    { 
+      pos: "MC", nome: "André", idade: 20, ovr: 69, evolucao: "+1",
+      altura: "179 cm", peso: "70 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/Andre.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:6.20 },
+        { nome: "Paulistão",jog:4, g:0, a:0, ca:0, cv:0, med:6.53 },
+        { nome: "Copa do Brasil",jog:3, g:0, a:0, ca:1, cv:0, med:5.83 },
+        { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Libertadores",jog:3, g:0, a:1, ca:0, cv:1, med:6.27 },
+      ]
+    },
+    { 
+      pos: "PE", nome: "Labyad", idade: 33, ovr: 68, evolucao: "-3",
+      altura: "175 cm", peso: "65 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Marrocos.png", 
+      foto: "/players/Labyad.jpg", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:8, g:2, a:2, ca:0, cv:0, med:6.43 },
+        { nome: "Copa do Brasil",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Libertadores",jog:1, g:0, a:0, ca:0, cv:0, med:5.90 },
+      ]
+    },
+    { 
+      pos: "ZAG", nome: "Silva", idade: 18, ovr: 67, evolucao: "+2",
+      altura: "199 cm", peso: "82 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:3, g:0, a:0, ca:0, cv:0, med:5.73 },
+        { nome: "Copa do Brasil",jog:3, g:0, a:0, ca:0, cv:0, med:6.43 },
+        { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Libertadores",jog:3, g:0, a:0, ca:1, cv:0, med:6.63 },
+      ]
+    },
+    { 
+      pos: "ATA", nome: "Meité", idade: 19, ovr: 73, evolucao: "+3",
+      altura: "192 cm", peso: "80 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/França.png", 
+      foto: "/players/Meite.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:2, g:2, a:0, ca:0, cv:0, med:8.25 },
+        { nome: "Copa do Brasil",jog:4, g:2, a:1, ca:0, cv:0, med:7.55 },
+        { nome: "Brasileirão",jog:2, g:2, a:1, ca:0, cv:0, med:8.90 },
+        { nome: "Libertadores",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+      ]
+    },
+    { 
+      pos: "PE", nome: "Gomes", idade: 17, ovr: 61, evolucao: "+3",
+      altura: "175 cm", peso: "68 kg", perna: "Direita",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:3, g:1, a:0, ca:0, cv:0, med:6.73 },
+        { nome: "Brasileirão",jog:3, g:0, a:0, ca:0, cv:0, med:5.50 },
+        { nome: "Libertadores",jog:2, g:1, a:0, ca:0, cv:0, med:7.25 },
+      ]
+    },
+    { 
+      pos: "PD", nome: "Fernandes", idade: 17, ovr: 62, evolucao: "+2",
+      altura: "172 cm", peso: "67 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:2, g:1, a:1, ca:0, cv:0, med:7.20 },
+        { nome: "Brasileirão",jog:4, g:0, a:1, ca:1, cv:0, med:6.15 },
+        { nome: "Libertadores",jog:1, g:1, a:0, ca:0, cv:0, med:7.70 },
+      ]
+    },
+    { 
+      pos: "LE", nome: "Da Silva", idade: 16, ovr: 60, evolucao: "+1",
+      altura: "173 cm", peso: "66 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Brazil.png", 
+      foto: "/players/.png", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Brasileirão",jog:2, g:0, a:0, ca:0, cv:0, med:5.40 },
+        { nome: "Libertadores",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+      ]
+    },
+    { 
+      pos: "LE", nome: "Angileri", idade: 32, ovr: 73, evolucao: "+1",
+      altura: "185 cm", peso: "73 kg", perna: "Esquerda",
+      bandeira: "/Nacionalidade/Argentina.png", 
+      foto: "/players/Angileri.webp", 
+      valor: "€ 82M",
+      competicoes: [
+        { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Paulistão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Copa do Brasil",jog:2, g:0, a:0, ca:0, cv:0, med:5.85 },
+        { nome: "Brasileirão",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+        { nome: "Libertadores",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
+      ]
+    },
   ];
 
   if (jogadorSelecionado) {
