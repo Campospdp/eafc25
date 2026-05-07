@@ -93,7 +93,8 @@ export default function Estatisticas({ onBack }) {
       pos: "MC", nome: "Bidon", idade: 21, ovr: 77, evolucao: "+3",
       altura: "174 cm", peso: "64 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
-      foto: "/players/Bidon.webp", 
+      foto: "/players/Bidon.webp",
+      terrao: "/images/Filho_do_Terrao.png", 
       valor: "€ 15,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:7.10 },
@@ -150,6 +151,7 @@ export default function Estatisticas({ onBack }) {
       altura: "192 cm", peso: "82 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Tchoca.webp", 
+      terrao: "/images/Filho_do_Terrao.png",
       valor: "€ 7,5M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -290,6 +292,7 @@ export default function Estatisticas({ onBack }) {
       altura: "179 cm", peso: "66 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
+      terrao: "/images/Filho_do_Terrao.png",
       valor: "€ 2,7M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -374,6 +377,7 @@ export default function Estatisticas({ onBack }) {
       altura: "179 cm", peso: "70 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/Andre.webp", 
+      terrao: "/images/Filho_do_Terrao.png",
       valor: "€ 2,2M",
       competicoes: [
         { nome: "Supercopa do Br",jog:1, g:0, a:0, ca:0, cv:0, med:6.20 },
@@ -402,6 +406,7 @@ export default function Estatisticas({ onBack }) {
       altura: "199 cm", peso: "82 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
+      terrao: "/images/Filho_do_Terrao.png",
       valor: "€ 2M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -430,6 +435,7 @@ export default function Estatisticas({ onBack }) {
       altura: "175 cm", peso: "68 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
+      terrao: "/images/Filho_do_Terrao.png",
       valor: "€ 1,3M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -444,6 +450,7 @@ export default function Estatisticas({ onBack }) {
       altura: "172 cm", peso: "67 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
+      terrao: "/images/Filho_do_Terrao.png",
       valor: "€ 1,2M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -457,7 +464,8 @@ export default function Estatisticas({ onBack }) {
       pos: "LE", nome: "Da Silva", idade: 16, ovr: 60, evolucao: "+1",
       altura: "173 cm", peso: "66 kg", perna: "Esquerda",
       bandeira: "/Nacionalidade/Brazil.png", 
-      foto: "/players/.png", 
+      foto: "/players/.png",
+      terrao: "/images/Filho_do_Terrao.png", 
       valor: "€ 950MIL",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -500,7 +508,8 @@ export default function Estatisticas({ onBack }) {
       pos: "ATA", nome: "Fernandes", idade: 17, ovr: 61, evolucao: "+2",
       altura: "187 cm", peso: "78 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
-      foto: "/players/.png", 
+      foto: "/players/.png",
+      terrao: "/images/Filho_do_Terrao.png", 
       valor: "€ 750MIL",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
@@ -515,6 +524,7 @@ export default function Estatisticas({ onBack }) {
       altura: "184 cm", peso: "76 kg", perna: "Direita",
       bandeira: "/Nacionalidade/Brazil.png", 
       foto: "/players/.png", 
+      terrao: "/images/Filho_do_Terrao.png",
       valor: "€ 2,1M",
       competicoes: [
         { nome: "Supercopa do Br",jog:0, g:0, a:0, ca:0, cv:0, med:0 },
