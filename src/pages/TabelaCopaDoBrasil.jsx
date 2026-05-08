@@ -100,12 +100,32 @@ export default function TabelaCopaDoBrasil({ onBack }) {
         { t1: "Mirassol", l1: "/times/mirassol.png", p: "2 x 1", t2: "Botafogo", l2: "/times/botafogo.png", info: "IDA: 1x1 | VOLTA: 1x0" },
         { t1: "Sport", l1: "/times/sport.webp", p: "2 x 9", t2: "Corinthians", l2: "/times/corinthians.webp", info: "IDA: 2x3 | VOLTA: 0x6" },
         { t1: "Remo", l1: "/times/remo.webp", p: "3 x 2", t2: "Náutico", l2: "/times/nautico.png", info: "IDA: 3x0 | VOLTA: 0x2" },
+        { t1: "Bahia", l1: "/times/bahia.png", p: "3 x 2", t2: "Fortaleza", l2: "/times/fortaleza.png", info: "IDA: 2x1 | VOLTA: 1x1", pen: "(4-3)" },
+        { t1: "Palmeiras", l1: "/times/palmeiras.png", p: "4 x 2", t2: "São Paulo", l2: "/times/sao paulo.png", info: "IDA: 2x1 | VOLTA: 2x1" },
+        { t1: "Confiança", l1: "/times/confianca.png", p: "3 x 3", t2: "Cruzeiro", l2: "/times/cruzeiro.png", info: "IDA: 1x2 | VOLTA: 2x1", pen: "(3-4)" },
+        { t1: "Vila Nova", l1: "/times/vila nova.png", p: "0 x 2", t2: "Flamengo", l2: "/times/flamengo.png", info: "IDA: 0x1 | VOLTA: 0x1" },
+      ]
+    },
+    {
+      fase: "Quartas de Final",
+      jogos: [
+        { t1: "Palmeiras", l1: "/times/palmeiras.png", p: "4 x 0", t2: "Bahia", l2: "/times/bahia.png", info: "IDA: 1x0 | VOLTA: 3x0" },
+        { t1: "Remo", l1: "/times/remo.webp", p: "5 x 5", t2: "Corinthians", l2: "/times/corinthians.webp", info: "IDA: 1x2 | VOLTA: 4x3", pen: "(4-5)" },
+        { t1: "Mirassol", l1: "/times/mirassol.png", p: "3 x 1", t2: "União-TO", l2: "/times/uniao-to.webp", info: "IDA: 2x0 | VOLTA: 1x1" },
+        { t1: "Flamengo", l1: "/times/flamengo.png", p: "3 x 3", t2: "Cruzeiro", l2: "/times/cruzeiro.png", info: "IDA: 1x1 | VOLTA: 2x2", pen: "(3-4)" },
+      ]
+    },
+    {
+      fase: "Semifinais",
+      jogos: [
+        { t1: "Palmeiras", l1: "/times/palmeiras.png", p: "5 x 1", t2: "Mirassol", l2: "/times/mirassol.png", info: "IDA: 3x0 | VOLTA: 2x1" },
+        { t1: "Corinthians", l1: "/times/corinthians.webp", p: "5 x 8", t2: "Cruzeiro", l2: "/times/cruzeiro.png", info: "IDA: 2x5 | VOLTA: 3x3" },
       ]
     },
     {
       fase: "Final",
       jogos: [
-       { t1: "Corinthians", l1: "/times/corinthians.webp", p: "3 x 1", t2: "Fluminense", l2: "/times/fluminense.webp", info: "AGREGADO" },
+        { t1: "Cruzeiro", l1: "/times/cruzeiro.png", p: "4 x 3", t2: "Palmeiras", l2: "/times/palmeiras.png", info: "IDA: 2x2 | VOLTA: 2x1", campeao: "Cruzeiro" },
       ]
     }
   ];
